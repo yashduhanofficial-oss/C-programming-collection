@@ -1,0 +1,107 @@
+01_find_largest_element.c
+
+Yash - 125113002
+Enter number of elements: 5
+Enter array elements: 10 45 23 67 12
+Largest element = 67
+
+---
+
+02_average_and_sum.c
+
+Yash - 125113002
+Enter number of elements: 4
+Enter array elements: 10 20 30 40
+Sum = 100
+Average = 25.00
+
+---
+
+03_bubble_sort.c
+
+Yash - 125113002
+Enter number of elements: 5
+Enter array elements: 64 34 25 12 22
+Sorted array: 12 22 25 34 64
+
+---
+
+04_count_frequency.c
+
+Yash - 125113002
+Enter number of elements: 6
+Enter array elements: 1 2 2 3 3 3
+Frequency of elements:
+1 occurs 1 times
+2 occurs 2 times
+3 occurs 3 times
+
+---
+
+05_merge_arrays.c
+
+Yash - 125113002
+Enter size of first array: 3
+Enter first array elements: 1 2 3
+Enter size of second array: 3
+Enter second array elements: 4 5 6
+Merged array: 1 2 3 4 5 6
+
+---
+
+06_add_matrices.c
+
+Yash - 125113002
+Enter number of rows and columns: 2 2
+Enter first matrix:
+1 2
+3 4
+Enter second matrix:
+5 6
+7 8
+Sum of matrices:
+6 8
+10 12
+
+---
+
+07_transpose_matrix.c
+
+Yash - 125113002
+Enter number of rows and columns: 2 3
+Enter matrix:
+1 2 3
+4 5 6
+Transpose of matrix:
+1 4
+2 5
+3 6
+
+---
+
+08_sum_diagonals.c
+
+Yash - 125113002
+Enter size of square matrix: 3
+Enter matrix:
+1 2 3
+4 5 6
+7 8 9
+Main diagonal sum = 15
+Secondary diagonal sum = 15
+
+---
+
+09_factorial.c
+
+Yash - 125113002
+Enter a number: 5
+Factorial of 5 = 120
+
+---
+
+09_check_palindrome.c
+
+Yash - 125113002
+Enter a number: 12321
+12321 is a palindrome
