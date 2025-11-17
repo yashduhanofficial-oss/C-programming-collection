@@ -1,0 +1,65 @@
+01_create_write_file.c
+
+Yash - 125113002
+Enter text to write to file: This is a test file
+Text written to file successfully!
+
+---
+
+02_read_display_file.c
+
+Yash - 125113002
+File contents:
+This is a test file
+
+---
+
+03_count_char_word_line.c
+
+Yash - 125113002
+Characters: 19
+Words: 5
+Lines: 1
+
+---
+
+04_copy_file_contents.c
+
+Yash - 125113002
+File copied successfully!
+
+---
+
+05_append_data_file.c
+
+Yash - 125113002
+Enter text to append: Additional content
+Text appended successfully!
+
+---
+
+06_store_retrieve_student.c
+
+Yash - 125113002
+1. Store student record
+2. Retrieve student records
+Enter choice: 1
+Enter roll: 101
+Enter name: Yash
+Enter marks: 95
+Record stored successfully!
+
+---
+
+07_read_numbers_sum_avg.c
+
+Yash - 125113002
+Sum = 150
+Average = 30.00
+
+---
+
+08_merge_two_files.c
+
+Yash - 125113002
+Files merged successfully!
