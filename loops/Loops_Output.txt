@@ -1,0 +1,85 @@
+check leap year.c
+
+Yash - 125113002
+Enter a year: 2020
+2020 is a leap year
+
+---
+
+Check_whether_number_is_even_or_odd.c
+
+Yash - 125113002
+Enter a number: 10
+10 is even number
+
+---
+
+Find largest among three numbers.c
+
+Yash - 125113002
+Enter three numbers: 10 25 15
+Largest number is 25
+
+---
+
+Menu-driven calculator using switch-case.c
+
+Yash - 125113002
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
+Enter your choice: 1
+Enter two numbers: 10 20
+Result: 30
+
+---
+
+multiplication table using loop.c
+
+Yash - 125113002
+Enter a number: 5
+Multiplication table of 5:
+5 * 1 = 5
+5 * 2 = 10
+5 * 3 = 15
+5 * 4 = 20
+5 * 5 = 25
+5 * 6 = 30
+5 * 7 = 35
+5 * 8 = 40
+5 * 9 = 45
+5 * 10 = 50
+
+---
+
+Reverse a number using do-while loop.c
+
+Yash - 125113002
+Enter a number: 12345
+Reversed number: 54321
+
+---
+
+sum of natural numbers using for loop.c
+
+Yash - 125113002
+Enter a number: 10
+Sum of natural numbers from 1 to 10 = 55
+
+---
+
+09_factorial.c
+
+Yash - 125113002
+Enter a number: 5
+Factorial of 5 = 120
+
+---
+
+09_check_palindrome.c
+
+Yash - 125113002
+Enter a number: 12321
+12321 is a palindrome
