@@ -1,0 +1,143 @@
+01_store_display_student.c
+
+Yash - 125113002
+Enter roll number: 101
+Enter name: Yash
+Enter marks: 95.5
+
+Student Details:
+Roll: 101
+Name: Yash
+Marks: 95.50
+
+---
+
+02_highest_marks.c
+
+Yash - 125113002
+Enter number of students: 3
+Enter details for student 1:
+Roll: 101
+Name: Alice
+Marks: 85
+Enter details for student 2:
+Roll: 102
+Name: Bob
+Marks: 92
+Enter details for student 3:
+Roll: 103
+Name: Charlie
+Marks: 88
+
+Student with highest marks:
+Roll: 102, Name: Bob, Marks: 92.00
+
+---
+
+03_books_above_500.c
+
+Yash - 125113002
+Enter number of books: 3
+Enter details for book 1:
+Title: DataStructures
+Author: Cormen
+Price: 850
+Enter details for book 2:
+Title: CProgramming
+Author: Kernighan
+Price: 450
+Enter details for book 3:
+Title: Algorithms
+Author: Sedgewick
+Price: 650
+
+Books priced above 500:
+Title: DataStructures, Author: Cormen, Price: 850.00
+Title: Algorithms, Author: Sedgewick, Price: 650.00
+
+---
+
+04_average_marks.c
+
+Yash - 125113002
+Enter number of students: 3
+Enter details for student 1:
+Roll: 101
+Name: Yash
+Marks: 95
+Enter details for student 2:
+Roll: 102
+Name: Priya
+Marks: 87
+Enter details for student 3:
+Roll: 103
+Name: Raj
+Marks: 91
+Average marks = 91.00
+
+---
+
+05_gross_salary.c
+
+Yash - 125113002
+Enter employee name: Yash
+Enter basic salary: 50000
+
+Employee Details:
+Name: Yash
+Basic: 50000.00
+DA: 20000.00
+HRA: 10000.00
+Gross Salary: 80000.00
+
+---
+
+06_structure_function_argument.c
+
+Yash - 125113002
+Enter employee ID: 001
+Enter employee name: Yash
+Enter salary: 75000
+
+Employee Details:
+ID: 1
+Name: Yash
+Salary: 75000.00
+
+---
+
+07_nested_structure_date.c
+
+Yash - 125113002
+Enter roll number: 125113002
+Enter name: Yash
+Enter date of birth (dd mm yyyy): 15 08 2003
+
+Student Details:
+Roll: 125113002
+Name: Yash
+Date of Birth: 15/8/2003
+
+---
+
+08_sort_by_roll.c
+
+Yash - 125113002
+Enter number of students: 3
+Enter details for student 1:
+Roll: 103
+Name: Charlie
+Marks: 85
+Enter details for student 2:
+Roll: 101
+Name: Alice
+Marks: 90
+Enter details for student 3:
+Roll: 102
+Name: Bob
+Marks: 88
+
+Students sorted by roll number:
+Roll: 101, Name: Alice, Marks: 90.00
+Roll: 102, Name: Bob, Marks: 88.00
+Roll: 103, Name: Charlie, Marks: 85.00
